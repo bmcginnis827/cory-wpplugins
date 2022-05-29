@@ -1,4 +1,4 @@
-SSH in and switch to root: `sudo su`
+SSH in and switch to root: `sudo su` (enter root password when promopted)
 
 Navigate into wordpress directory: `/var/www/html/wordpress`
 
