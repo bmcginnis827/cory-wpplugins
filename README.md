@@ -1,3 +1,5 @@
+# Install new WordPress plugins
+
 SSH in and switch to root: `sudo su` (enter root password when prompted)
 
 Navigate into wordpress directory: `/var/www/html/wordpress`
