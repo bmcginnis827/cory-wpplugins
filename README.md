@@ -2,7 +2,7 @@
 
 SSH in and switch to root: `sudo su` (enter root password when prompted)
 
-Navigate into wordpress directory: `/var/www/html/wordpress`
+Navigate into wordpress directory: `cd /var/www/html/wordpress`
 
 Edit wp-config.php: `nano wp-config.php`
 
